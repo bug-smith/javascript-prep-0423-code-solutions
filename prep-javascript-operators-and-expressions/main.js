@@ -22,6 +22,10 @@ const isAcidic = pH;
 const numberOfSoliders = 299 === 300;
 const isSparta = numberOfSoliders;
 
+const name = 'Justin';
+const phrase = ' is the GOAT';
+const nickname = name + phrase;
+
 console.log(product);
 console.log(typeof product);
 
@@ -39,3 +43,6 @@ console.log(typeof isAcidic);
 
 console.log(isSparta);
 console.log(typeof isSparta);
+
+console.log(nickname);
+console.log(typeof nickname);
